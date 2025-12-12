@@ -1,16 +1,48 @@
-# koino_application_1
+# 🙏 KOINO (코이노)
+![KOINO Service Image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbmJ5dK%2FdJMcaiIz0Nw%2FAAAAAAAAAAAAAAAAAAAAAO8zP_hepsq9tfuxAFLVuxfBSTvdkUo3XCty6Cza91Br%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DvwTjK4rKXKW%252FekeHhwD9ptVt3Mw%253D)
 
-A new Flutter project.
+<br>
 
-## Getting Started
+## ❓ KOINO란?
+> **"말씀 + 묵상 + 관계"가 자연스럽게 이어지는 크리스천 전용 묵상 SNS**
 
-This project is a starting point for a Flutter application.
+- KOINO(코이노)는 '코이노니아(Koinonia)'에서 가져온 이름으로, 하나님 안에서 서로 깊이 연결된 공동체를 의미합니다.
+- 흩어져 있는 크리스천들이 온라인에서 말씀과 묵상을 나누며 교제하는 공간입니다.
+- 각자의 자리에서 올린 짧은 묵상 한 줄이, 서로에게 위로와 도전이 되는 **디지털 코이노니아 공동체**를 지향합니다.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 서비스 기획 의도
+1. **함께 세워가는 믿음**
+    - 크리스천들이 혼자만 묵상하고 끝나는 것이 아니라, 짧은 한 줄이라도 나누며 서로의 믿음을 세워 갈 수 있도록 돕습니다.
+2. **신앙 공동체형 플랫폼**
+    - 바쁜 일상 속에서도 말씀을 기록하고, 나의 묵상을 공유하며, 다른 이들의 고백을 통해 다시 힘을 얻는 공간을 목표로 합니다.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+## 🛠 핵심 기능
+### 1. 묵상 글 작성 (Verse & Meditate) ✍️
+- 오늘 받은 말씀 구절, 한 줄 묵상, 짧은 기도문 등을 **묵상 글 형태**로 간단히 올릴 수 있습니다.
+- 텍스트 중심으로 가볍게 작성하되, 필요 시 **말씀 이미지나 사진**도 함께 첨부할 수 있습니다.
+
+### 2. 피드 & 팔로우 타임라인 📲
+- 내가 팔로우한 친구·공동체의 묵상 글들을 **타임라인**에서 실시간으로 확인할 수 있습니다.
+- 서로의 일상 묵상을 공유하며 영적인 유대감을 형성합니다.
+
+### 3. 아멘 / 기도 버튼 🙏
+- 다른 사람의 묵상에 공감할 때는 **'아멘'** 버튼으로 반응을 남길 수 있습니다.
+- 댓글이나 복잡한 반응 대신, 간편하고 깊이 있는 공감을 표현합니다.
+
+
+<br>
+
+## 🧑‍💻 개발 및 역할 분담
+**박한결 (Developer)**
+
+| 구분 | 담당 기능 상세 |
+| --- | --- |
+| **메인/피드** | 홈 피드 화면 구현 |
+| **게시글** | 묵상 글 작성 화면, 상세 페이지 및 댓글 기능 |
+| **사용자** | 프로필 화면, 팔로우/팔로워 목록 화면 |
+| **계정/설정** | 로그인/회원가입, 마이페이지 설정 화면 |
+| **기타** | 알림 화면 구현 |
