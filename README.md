@@ -1,10 +1,10 @@
 # 🙏 KOINO (코이노)
-![KOINO Service Image]([https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbmJ5dK%2FdJMcaiIz0Nw%2FAAAAAAAAAAAAAAAAAAAAAO8zP_hepsq9tfuxAFLVuxfBSTvdkUo3XCty6Cza91Br%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DvwTjK4rKXKW%252FekeHhwD9ptVt3Mw%253D](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbDis0v%2FdJMcaf6coFm%2FAAAAAAAAAAAAAAAAAAAAAAt-8kMOMxzBeh0gg2HYywjCqRnA7zWIki933CqBBqZk%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D5RUbDqK3jsPr4eHa0%252Br0hswfQ1o%253D))
+![KOINO Service Image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbDis0v%2FdJMcaf6coFm%2FAAAAAAAAAAAAAAAAAAAAAAt-8kMOMxzBeh0gg2HYywjCqRnA7zWIki933CqBBqZk%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D5RUbDqK3jsPr4eHa0%252Br0hswfQ1o%253D)
 
 <br>
 
 ## ❓ KOINO란?
-> **"말씀 + 묵상 + 관계"가 자연스럽게 이어지는 크리스천 전용 묵상 SNS**
+> "말씀 + 묵상 + 관계"가 자연스럽게 이어지는 크리스천 전용 묵상 SNS
 
 - KOINO(코이노)는 '코이노니아(Koinonia)'에서 가져온 이름으로, 하나님 안에서 서로 깊이 연결된 공동체를 의미합니다.
 - 흩어져 있는 크리스천들이 온라인에서 말씀과 묵상을 나누며 교제하는 공간입니다.
@@ -33,8 +33,9 @@
 - 다른 사람의 묵상에 공감할 때는 **'아멘'** 버튼으로 반응을 남길 수 있습니다.
 - 댓글이나 복잡한 반응 대신, 간편하고 깊이 있는 공감을 표현합니다.
 
-
 <br>
+
+
 
 ## 🧑‍💻 개발 및 역할 분담
 **박한결 (Developer)**
@@ -46,3 +47,6 @@
 | **사용자** | 프로필 화면, 팔로우/팔로워 목록 화면 |
 | **계정/설정** | 로그인/회원가입, 마이페이지 설정 화면 |
 | **기타** | 알림 화면 구현 |
+
+<br>
+
